@@ -1,9 +1,11 @@
-# React + Vite
+<h1>Chat-App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+  I developed a messaging project with React-Vite. 
+  I provided instant storage using Firebase. You will be able to instant message with anyone from anywhere in the world. 
+  You can log in to the application with your Google account and message in many chat rooms on the application.</p>
 
-Currently, two official plugins are available:
+  <h4>Project Gif</h4>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Chat-App
+  ![Screen Recording 2024-03-16 at 08 34 09 PM](https://github.com/nazanyilmaz/Chat-App/assets/147782488/50a38ae0-fec9-4727-95be-c7c86a902ee3)
+
